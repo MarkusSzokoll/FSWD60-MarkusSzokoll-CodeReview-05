@@ -1,0 +1,43 @@
+jsonMovies=`[
+	{	"name":"Armageddon", 
+		"overview":"When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
+		"image":"armageddon.jpg",
+		"likes": "10"
+	},
+	{	"name":"bArmageddon", 
+		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
+		"image":"armageddon.jpg",
+		"likes": "10"
+	},
+	{	"name":"cArmageddon", 
+		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
+		"image":"armageddon.jpg",
+		"likes": "10"
+	},
+	{	"name":"dArmageddon", 
+		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
+		"image":"armageddon.jpg",
+		"likes": "10"
+	},
+	{	"name":"fArmageddon", 
+		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
+		"image":"armageddon.jpg",
+		"likes": "10"
+	},
+	{	"name":"eArmageddon", 
+		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
+		"image":"armageddon.jpg",
+		"likes": "10"
+	},
+	{	"name":"hArmageddon", 
+		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
+		"image":"armageddon.jpg",
+		"likes": "10"
+	},
+	{	"name":"gArmageddon", 
+		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
+		"image":"armageddon.jpg",
+		"likes": "10"
+	}
+
+]`;
