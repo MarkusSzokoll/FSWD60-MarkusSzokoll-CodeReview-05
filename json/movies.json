@@ -2,42 +2,42 @@ jsonMovies=`[
 	{	"name":"Armageddon", 
 		"overview":"When an asteroid threatens to collide with Earth, NASA honcho Dan Truman determines the only way to stop it is to drill into its surface and detonate a nuclear bomb. This leads him to renowned driller Harry Stamper, who agrees to helm the dangerous space mission provided he can bring along his own hotshot crew. Among them is the cocksure A.J. who Harry thinks isn't good enough for his daughter, until the mission proves otherwise.",
 		"image":"armageddon.jpg",
+		"likes": "5"
+	},
+	{	"name":"Upside Down", 
+		"overview":"In an alternate universe where twinned worlds have opposite gravities, a young man battles interplanetary prejudice and the laws of physics in his quest to reunite with the long-lost girl of his dreams in this visually stunning romantic adventure that poses the question: what if love was stronger than gravity?",
+		"image":"upsidedown.jpg",
+		"likes": "7"
+	},
+	{	"name":"Melancholia", 
+		"overview":"Two sisters find their already strained relationship challenged as a mysterious new planet threatens to collide with Earth.",
+		"image":"melancholia.jpg",
+		"likes": "0"
+	},
+	{	"name":"Pulp Fiction", 
+		"overview":"A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+		"image":"pulpfiction.jpg",
 		"likes": "10"
 	},
-	{	"name":"bArmageddon", 
-		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
-		"image":"armageddon.jpg",
+	{	"name":"The last unicorn", 
+		"overview":"From a riddle-speaking butterfly, a unicorn learns that she is supposedly the last of her kind, all the others having been herded away by the Red Bull. The unicorn sets out to discover the truth behind the butterfly's words. She is eventually joined on her quest by Schmendrick, a second-rate magician, and Molly Grue, a now middle-aged woman who dreamed all her life of seeing a unicorn. Their journey leads them far from home, all the way to the castle of King Haggard.",
+		"image":"thelastunicorn.jpg",
+		"likes": "3"
+	},
+	{	"name":"Forrest Gump", 
+		"overview":"A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+		"image":"forrestgump.jpg",
+		"likes": "8"
+	},
+	{	"name":"Iron Sky", 
+		"overview":"In the last moments of World War II, a secret Nazi space program evaded destruction by fleeing to the Dark Side of the Moon. During 70 years of utter secrecy, the Nazis construct a gigantic space fortress with a massive armada of flying saucers.",
+		"image":"ironsky.jpg",
 		"likes": "10"
 	},
-	{	"name":"cArmageddon", 
-		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
-		"image":"armageddon.jpg",
-		"likes": "10"
-	},
-	{	"name":"dArmageddon", 
-		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
-		"image":"armageddon.jpg",
-		"likes": "10"
-	},
-	{	"name":"fArmageddon", 
-		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
-		"image":"armageddon.jpg",
-		"likes": "10"
-	},
-	{	"name":"eArmageddon", 
-		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
-		"image":"armageddon.jpg",
-		"likes": "10"
-	},
-	{	"name":"hArmageddon", 
-		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
-		"image":"armageddon.jpg",
-		"likes": "10"
-	},
-	{	"name":"gArmageddon", 
-		"overview":"Handlung: Als die NASA einen Asteroiden von der Größe des Bundesstaates Texas entdeckt, der sich auf Kollisionskurs mit der Erde befindet und diese in voraussichtlich 18 Tagen erreichen wird, scheint es nur eine Möglichkeit zu geben, die drohende Apokalypse zu verhindern und das Überleben der Menschheit zu sichern. Ein Team, bestehend aus erfahrenen Astronauten und dem weltbesten Bohrteam, wird nach einem kurzen Spezialtraining ins All gesandt, um den riesigen Felsen vor seinem Zusammenstoß mit der Erde mit Hilfe eines nuklearen Sprengkopfes zu zerstören.",
-		"image":"armageddon.jpg",
-		"likes": "10"
+	{	"name":"Finding Nemo", 
+		"overview":"Nemo, an adventurous young clownfish, is unexpectedly taken from his Great Barrier Reef home to a dentist's office aquarium. It's up to his worrisome father Marlin and a friendly but forgetful fish Dory to bring Nemo home -- meeting vegetarian sharks, surfer dude turtles, hypnotic jellyfish, hungry seagulls, and more along the way.",
+		"image":"findingnemo.jpg",
+		"likes": "2"
 	}
 
 ]`;
